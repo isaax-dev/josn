@@ -1,1 +1,18 @@
-{}
+{
+  "status": "success",
+  "timestamp": "2026-02-14T10:05:22Z",
+  "data": {
+    "user_id": 1024,
+    "username": "python_dev_26",
+    "is_active": true,
+    "permissions": ["read", "write", "execute"],
+    "meta": {
+      "last_login": "2026-02-13",
+      "ip_address": "192.168.1.42"
+    }
+  },
+  "config": {
+    "timeout": 30,
+    "retries": 3
+  }
+}
