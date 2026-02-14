@@ -1,18 +1,33 @@
 {
-  "status": "success",
-  "timestamp": "2026-02-14T10:05:22Z",
-  "data": {
-    "user_id": 1024,
-    "username": "python_dev_26",
-    "is_active": true,
-    "permissions": ["read", "write", "execute"],
-    "meta": {
-      "last_login": "2026-02-13",
-      "ip_address": "192.168.1.42"
-    }
+  "projeto": "Gambiarra_Final_v3_ESTA_VAI.zip",
+  "status_mental": "Critical Error: Coffee Not Found",
+  "estatisticas_do_dia": {
+    "linhas_de_codigo": 1500,
+    "linhas_deletadas_com_odio": 1498,
+    "bugs_corrigidos": 2,
+    "novos_bugs_criados": 47,
+    "vezes_que_falei_que_ia_mudar_de_profissao": 12
   },
-  "config": {
-    "timeout": 30,
-    "retries": 3
-  }
+  "stack_trace_emocional": [
+    "08:00 - Eu sou um gênio.",
+    "10:30 - Por que eu fiz isso?",
+    "14:00 - O StackOverflow também não sabe.",
+    "16:00 - A culpa é do cache.",
+    "02:00 - Funcionou e eu não sei o porquê."
+  ],
+  "checklist_de_entrega": {
+    "testes_unitarios": false,
+    "documentacao": "Ta no código, confia",
+    "comentarios": [
+      "// TODO: Arrumar isso antes do deploy (escrito há 2 anos)",
+      "// Nao toque aqui, se tirar o app explode",
+      "// Magia negra, favor ignorar"
+    ]
+  },
+  "hardware_status": {
+    "temperatura_macbook": "Sol",
+    "memoria_ram_livre": "3 bytes e um sonho",
+    "abas_do_chrome_abertas": 84
+  },
+  "is_senior": "Depends on if the internet is working"
 }
